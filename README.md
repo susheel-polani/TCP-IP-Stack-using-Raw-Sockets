@@ -1,5 +1,12 @@
 # TCP-IP-Stack-using-Raw-Sockets
 
+# Usage
+
+python3 rawhttpget.py [url]
+
+Example:
+~: python3 rawhttpget.py http://david.choffnes.com/classes/cs5700f22/2MB.log
+
 # High Level Approach:
 
 The rawhttpget program expects one command line argument, the URL of the GET request.
