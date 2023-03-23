@@ -5,7 +5,7 @@
 python3 rawhttpget.py [url]
 
 Example:
-~: python3 rawhttpget.py http://david.choffnes.com/classes/cs5700f22/2MB.log
+~: python3 rawhttpget.py http://david.choffnes.com/classes/cs5700f22/2MB.log  
 The above command downloads the 2MB.log file at the current directory.
 
 # High Level Approach:
