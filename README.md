@@ -57,9 +57,9 @@ The client program rawhttpget was timed against three files:
 3. http://david.choffnes.com/classes/cs5700f22/50MB.log
 
 Time Performances for each log file:
-2MB.log -> 6.38 seconds
-10MB.log -> 18.03 seconds
-50MB.log -> 1 minute 20 seconds
+2MB.log -> 6.38 seconds  
+10MB.log -> 18.03 seconds  
+50MB.log -> 1 minute 20 seconds  
 
 # Challenges Faced:
 
